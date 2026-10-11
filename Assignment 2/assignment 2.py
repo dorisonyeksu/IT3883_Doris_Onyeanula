@@ -1,5 +1,5 @@
 
-# Assignment2.py
+# Assignment3.py
 # IT3883/Section 01
 # Doris Onyeanula
 # Assignment Number: Assignment 3
